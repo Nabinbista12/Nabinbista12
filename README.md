@@ -1,17 +1,17 @@
-<h3 align="center">A passionate frontend developer from</h3>
+<h3 align="center">A passionate MERN stack developer from Nepa</h3>
 
-- 🔭 I’m currently working on **Zoom like webpage**
+- 🔭 I’m currently working on **Building a Zoom-like web application with real-time video conferencing features, focusing on responsive design and smooth user experience.**
 
-- 🌱 I’m currently learning **Next js and Tailwind css**
+- 🌱 I’m currently learning **Next.js and Tailwind CSS to enhance my frontend performance and scalability skills.**
 
-- 👨‍💻 All of my projects are available at [nabinbista](nabinbista)
+- 👨‍💻 All of my projects are available at [nabinbista](nabinbista.me)
 
 - 📫 How to reach me **bistanabin98@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nabinbista" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nabinbista" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/nabinbista" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nabinbista" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/nabin-bista" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nabinbista" height="30" width="40" /></a>
+<a href="[https://www.leetcode.com/nabinbista](https://leetcode.com/u/nab_in/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nabinbista" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
