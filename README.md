@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Next.js and Tailwind CSS to enhance my frontend performance and scalability skills.**
 
-- 👨‍💻 All of my projects are available at [nabinbista](nabinbista.me)
+- 👨‍💻 All of my projects are available at [nabinbista.me](https://www.nabinbista.me/)
 
 - 📫 How to reach me **bistanabin98@gmail.com**
 
