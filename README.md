@@ -1,4 +1,4 @@
-<h3 align="center">A passionate MERN stack developer from Nepa</h3>
+<h3 align="center">A passionate MERN stack developer from Nepal</h3>
 
 - 🔭 I’m currently working on **Building a Zoom-like web application with real-time video conferencing features, focusing on responsive design and smooth user experience.**
 
